@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CoderC8EC!
+- 👀 I’m interested in creating new websites for all to use, mainly focussing on games and whatnot!
+- 🌱 I’m currently learning node.js, and testing out a few other languages.
+- 💞️ I’m looking to collaborate on any proxybased websites that can be possibly ported to mine.
+- 📫 How to reach me - breitzs898@pavcs.us
+- 😄 Pronouns: He/Him (She/Her, soon.)
+- ⚡ Fun fact: I'm a silly lil goob :3
